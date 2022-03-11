@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
 /*VARIABLES*/
 $White: hsl(0, 0%, 100%);
@@ -73,4 +74,6 @@ html {
 
   .attribution{
     margin-top: 2rem;
+    font-size: 11px; text-align: center; 
+   a { color: hsl(228, 45%, 44%); }
   }
